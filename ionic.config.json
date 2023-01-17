@@ -1,0 +1,7 @@
+{
+  "name": "Senac Thalis",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
